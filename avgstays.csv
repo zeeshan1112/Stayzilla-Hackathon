@@ -1,0 +1,450 @@
+0,0
+Vizag,3
+"Mount Abu",2.0357142857143
+Mumbai,2.7225130890052
+Bangalore,2.4727272727273
+Mettupalayam,3
+Mysore,2.25
+Munnar,2.1851851851852
+Gokarna,2.5116279069767
+Mantralayam,2.1176470588235
+Thekkady,1.75
+Kanpur,1
+Almora,3
+Pondicherry,1.9767441860465
+Orchha,2
+Shimla,2.5593220338983
+Mayiladuthurai,2.4166666666667
+Kancheepuram,2.7647058823529
+Gurgaon,2.375
+Solan,2.25
+Kolkata,2.469696969697
+Lonavala,2.5555555555556
+Manali,2.4358974358974
+Wayanad,1.9333333333333
+Visakhapatnam,2.65
+Goa,2.7240143369176
+Hyderabad,2.6481481481481
+Ahmedabad,2.4137931034483
+Matheran,2.0970873786408
+Ganapatipule,2.0909090909091
+Chennai,2.6262626262626
+Puri,2.7753623188406
+Mussoorie,2.6923076923077
+Jammu,1.6666666666667
+Darjeeling,2.4814814814815
+Pollachi,2.3333333333333
+Jorhat,2.2
+Amritsar,2.3076923076923
+Cochin,3.125
+Santiniketan,2
+Ooty,2.2093023255814
+Masinagudi,2.6666666666667
+Delhi,3.0508474576271
+Gopalpur,2.2
+Kanyakumari,2.0540540540541
+Dharwad,3.375
+Kovalam,2.3333333333333
+Malda,1.5
+Coorg,2.8030303030303
+Rishikesh,3
+Dhanbad,2
+Digha,2.56
+Kanha,2.1666666666667
+Ravangla,2.5
+Udaipur,2.3448275862069
+Shirdi,2.5714285714286
+Haridwar,3.0526315789474
+Jaipur,2.3461538461538
+Gulmarg,1.75
+Alibaug,2.8255813953488
+Dwarka,2.3
+Chandigarh,2.6363636363636
+Jambughoda,3
+Velankanni,2.875
+Agra,2.9259259259259
+Yercaud,1.9565217391304
+Thane,2.3809523809524
+Kalimpong,2
+Coimbatore,2.4
+Varanasi,2.75
+Panvel,4.2666666666667
+Bhavnagar,2.6
+Saputara,2.219512195122
+Mcleodganj,2.375
+Koraput,2
+Kodaikanal,2.0526315789474
+Guwahati,2.6111111111111
+Asansol,2.6666666666667
+Rameswaram,2.1395348837209
+Ranchi,3
+Allahabad,2.9913043478261
+Gaya,2.5
+Gangtok,2.5789473684211
+Sangla,2.5
+Badami,2
+Salem,2.5
+Trivandrum,2.6666666666667
+Kollur,2
+Satara,2.25
+Dimapur,3
+Tirupati,2.6153846153846
+Chikmagalur,3
+Daman,2
+Adoni,1
+Tuljapur,2.375
+Diveagar,2.5789473684211
+Barmer,2
+Chidambaram,1
+"Havelock Island",1.7272727272727
+Kozhikode,2.5454545454545
+Lataguri,2.6
+Chandipur,1.6666666666667
+Anand,2
+Kumarakom,1.75
+Kufri,2.7142857142857
+Tinsukia,1
+Pune,2.7111111111111
+Shillong,2.4375
+Murudeshwar,2.3529411764706
+Dausa,2.3636363636364
+Amravati,2.2
+Junagadh,3
+"Port Blair",2.4545454545455
+Jagdalpur,2
+Nashik,2.3636363636364
+Dindigul,2.25
+Alwar,2.8
+Chandrapur,2
+Solapur,1.75
+Ranakpur,1.6666666666667
+Ranikhet,1.75
+"New Delhi",2.3
+Patna,2.4
+Harihareshwar,1.7777777777778
+"Leh Ladakh",2
+Khajjiar,2.5
+Rewa,1.5
+Konark,2.5
+Raichur,1.6666666666667
+Rajgir,2
+Nagercoil,3
+Thanjavur,2.6
+Ujjain,2.4285714285714
+Itanagar,2.6
+Kolar,3
+Patiala,1
+"Kolli Hills",2.5
+Jalgaon,2
+Diu,2.5714285714286
+Alappuzha,2.1428571428571
+Mahabalipuram,1.8333333333333
+Cuddalore,2.4
+Chittoor,2
+Jodhpur,2.2857142857143
+Madurai,2.12
+Katihar,2.3333333333333
+Bidar,1.75
+Kolhapur,2.3571428571429
+Mahabaleshwar,2.3023255813953
+Ongole,2.6666666666667
+Kumbakonam,2.5
+Faridabad,2.6666666666667
+Kasauli,2.6
+Dehradun,2.9333333333333
+Pelling,2.4285714285714
+Yelagiri,2.1428571428571
+Vellore,2.9411764705882
+Srikakulam,2
+Malvan,2.5
+Ernakulam,2.7272727272727
+Udupi,2.0555555555556
+Dalhousie,2.7142857142857
+Ambikapur,2
+Vijayawada,2.0625
+Rourkela,2.2
+" Pathanamthitta",3
+Nanded,1.8333333333333
+Alleppey,3
+Kohima,2
+Manipal,2.3
+Tiruvannamalai,2.6666666666667
+Thrissur,2.5
+Athirapally,2.75
+Palakkad,9.5
+Gulbarga,2.1
+Panchgani,2.4285714285714
+Bijapur,2.5714285714286
+Bareilly,2
+Gwalior,3
+Khandala,1.8571428571429
+Nainital,2.2380952380952
+Surat,2.7142857142857
+Krishnagiri,3
+Davangere,2.2
+Bhimtal,3
+Bandhavgarh,2
+Mukteshwar,2.3333333333333
+Sringeri,2.1111111111111
+Valparai,1.8
+Srirangapatna,2
+Omkareshwar,2
+Burdwan,2
+Kannur,2.1666666666667
+Karur,2
+Lucknow,2.4545454545455
+" Tarapith",3
+Bhopal,2.2222222222222
+Pachmarhi,2.4705882352941
+"Ahmedpur Mandvi",2
+Mandi,3
+Katra,2.6
+Tirupur,2.6
+Igatpuri,2.75
+Murud,2.3125
+Badrinath,1.5
+Karimnagar,2
+Bhadrachalam,2
+Hampi,2
+Karkala,3
+Ayodhya,2.6
+Dahanu,2.625
+Silvassa,2.8888888888889
+"Jog Falls",2
+Nahan,2.5
+Harnai,2
+Gandhidham,2.5
+Balasore,1.5
+"Yamuna Nagar",2.5
+Vengurla,2.2
+Ajmer,1.9230769230769
+Varkala,3
+Bhilai,2.3333333333333
+Coonoor,2.5
+Malpe,2.5
+Guruvayur,2.2631578947368
+Aligarh,1.4
+Sakleshpur,2.2
+Tiruchendur,1.6
+Sagar,3
+Palani,1.8571428571429
+Bhuj,2.3333333333333
+Panchkula,2.5
+Navsari,1
+Moradabad,3
+Subrahmanya,2.3333333333333
+Ankleshwar,2.5
+Ratnagiri,2.5
+Umbergaon,2
+Thirukkadaiyur,1.3333333333333
+Karaikal,1.6666666666667
+Rajkot,2.4
+Kumbhalgarh,2.3333333333333
+"Navi Mumbai",1
+Calcutta,3
+" Pachmarhi",3
+Madikeri,2.75
+Raigad,1
+Ludhiana,2.7142857142857
+Tithal,1
+Sirsi,2.6666666666667
+Tawang,2.4
+Bhubaneshwar,2.75
+Taptapani,3
+Patnitop,2.1666666666667
+Pudukkottai,3
+Pathankot,1
+Tiruchirapalli,2.5
+Hubli,2.5555555555556
+Siliguri,2.8
+Bikaner,2
+Khajuraho,3
+Courtallam,2.2
+Keonjhar,2
+Aurangabad,2.6666666666667
+Bahraich,3
+Nizamabad,1.6666666666667
+" Calangute",3
+Cuttack,2.8
+Yellapur,1.5
+Gorakhpur,2.7142857142857
+Bhandardara,2.3333333333333
+Mathura,2.2
+Pahalgam,2
+Eluru,1.75
+Sikkim,3
+Chail,2
+Vizianagaram,1
+Sriperumbudur,2
+Jabalpur,2
+Guntur,2.3333333333333
+Thiruvananthapuram,3
+Nellore,2.3846153846154
+Zirakpur,2
+Thalassery,3
+Bellary,2
+" Nasik",3
+Chittorgarh,1.6666666666667
+Jamnagar,2.5
+Kurnool,2.1666666666667
+Akola,3
+Palghar,2.5
+Jamshedpur,5.5
+Shimoga,1.8571428571429
+Raipur,2.3333333333333
+Kausani,1.5
+Mangalore,2.5833333333333
+Nagapattinam,1
+Chitradurga,2.6666666666667
+Somnath,2.4615384615385
+Kota,2.8333333333333
+Palanpur,1
+Malappuram,1
+Bandipur,3
+Karwar,1.5
+Vadodara,3
+Manikaran,2
+Mandya,2
+Lakshadweep,1
+Dandeli,2.6666666666667
+Belgaum,2.4
+Nagarhole,3
+Mandu,2.4285714285714
+Karnal,2.5
+Baddi,3
+Thiruvarur,2
+Lachung,2.5
+Belur,3
+" Madurai",3
+Bilaspur,3
+Saharanpur,1
+Hassan,2.3333333333333
+" Malvan",3
+Shrivardhan,3
+Rajahmundry,2.3333333333333
+Nagaur,3
+Tuticorin,3
+Hospet,2
+" Dwarka",3
+Bagalkot,3
+Srinagar,2
+Anantapur,1.8
+Karaikudi,3
+" Kolkata",3
+Mirzapur,2.5
+Rudrapur,2
+Jalpaiguri,3
+Shamirpet,3
+Ambala,2.6666666666667
+Warangal,2.8
+" Puri",3
+Kabini,1.3333333333333
+Pali,3
+Cuddapah,1
+Sonipat,3
+" Valsad",3
+Nagpur,2.8333333333333
+Kottayam,3
+Haldwani,3
+" Thane",3
+" Coimbatore",3
+Jhansi,2.25
+Ranthambore,1.5
+" Port Blair",3
+Porbandar,1
+Panipat,3
+Kullu,3
+"Lakhimpur Kheri",3
+Jaisalmer,4.3333333333333
+Puttur,3
+" Bolpur",3
+Basti,3
+" Chirala",3
+Kushinagar,1
+" Lonavala",3
+Meerut,3
+Ramnagar,3
+" Vellore",3
+Betul,3
+Una,2
+" Ghoghala",3
+Chamba,1.5
+Angamaly,3
+" Madikeri",3
+Angul,2
+Mandla,3
+Sangli,3
+Idukki,2
+Namakkal,3
+Sariska,2
+" Manali",3
+Siliserh,3
+" Bhopal",3
+Kothamangalam,3
+" Bangalore",5.5
+Bhedaghat,3
+Gondal,2.5
+" Palakkad",3
+Kasaragod,3
+Sivakasi,1.6666666666667
+" Guwahati",3
+" Lucknow",3
+Roorkee,2.5
+" Shrivardhan",3
+" Patna",3
+Indore,2.5
+Hosur,2.6
+Pushkar,2.5
+Sambalpur,2.6666666666667
+Mundra,3
+" Hyderabad",3
+Noida,2.5
+Kushalanagar,1
+" Mumbai",3
+Horanadu,3
+" Saputara",3
+" Canacona",3
+" Dahanu",3
+Kundapur,3
+Mehsana,1
+" Hajipur",3
+" Bakkhali",3
+" Sangli",3
+Bombay,3
+" Saharanpur",3
+Kotagiri,2
+Udagamandalam,3
+" Yadagirigutta",3
+Vapi,3
+Phulbani,2
+Kovai,3
+Kemmangundi,2.3333333333333
+Agartala,3
+Bahadurgarh,3
+Mahbubnagar,2
+Kotputli,3
+Kollam,3
+" Auli Laga Salude",3
+"Bokaro Steel City",3
+Adipur,3
+" Chikballapur",3
+" Baga",3
+Gadag,2
+Kankavli,3
+Valsad,4
+Gandhinagar,3
+" Erode",3
+Kangra,1
+"Sawai Madhopur",2
+" Thrissur",3
+" Thoothukudi",3
+" South Andaman",3
+" Valparai",3
+" Dewas",3
+" Padam Dungari",3
+" Pune",3
+Golaghat,2
+" Chittoor",3
+Kosi,2
+" Ernakulam",3
+Ahmednagar,3
