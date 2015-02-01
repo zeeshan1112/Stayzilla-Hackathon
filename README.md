@@ -53,3 +53,8 @@ chat_location_mapping.csv
 #Conclusion
 
 In these 24 hours we were able to structure and compress a humongous unorganized set of data. We visualized the generated data to show trends and relations between different parameters of the data.
+![:-(](https://github.com/zeeshan1112/Stayzilla-Hackathon/blob/master/visual%20slides/durperzone.png "durperzone")
+![:-(](https://github.com/zeeshan1112/Stayzilla-Hackathon/blob/master/visual%20slides/freqperzone.png "freqperzone")
+![:-(](https://github.com/zeeshan1112/Stayzilla-Hackathon/blob/master/visual%20slides/msgpercity.png "msgpercity")
+![:-(](https://github.com/zeeshan1112/Stayzilla-Hackathon/blob/master/visual%20slides/staypercity.png "staypercity")
+![:-(](https://github.com/zeeshan1112/Stayzilla-Hackathon/blob/master/visual%20slides/stayperzone.png "stayperzone")
